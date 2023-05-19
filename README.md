@@ -1,6 +1,5 @@
 # Route Planning Project
 
-<img src="map.png" width="600" height="450" />
 
 ## Cloning
 
